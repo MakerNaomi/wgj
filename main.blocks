@@ -15,4 +15,4 @@ f f f c 3 c c c c 3 c f f f
 . 4 4 f 6 6 6 6 6 6 f 4 4 . 
 . . . . f f f f f f . . . . 
 . . . . f f . . f f . . . . 
-`</field></shadow></value><value name="kind"><shadow type="spritekind" id="`Na^CuU*4@-[/,Q)kJC8"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="hudChangeScoreBy" id="LiEx.Q^IOwUlwR{@-Z6g"><value name="value"><shadow type="math_number" id="4uw1BmN4-fXoj.)C,Gt4"><field name="NUM">1</field></shadow></value></block></next></block></next></block></statement></block></xml>
+`</field></shadow></value><value name="kind"><shadow type="spritekind" id="`Na^CuU*4@-[/,Q)kJC8"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="hudChangeScoreBy" id="LiEx.Q^IOwUlwR{@-Z6g"><value name="value"><shadow type="math_number" id="4uw1BmN4-fXoj.)C,Gt4"><field name="NUM">0</field></shadow></value><next><block type="hudSetLife" id="}6/R81z7@)zS$03wi#Q7"><value name="value"><shadow type="math_number" id="Bz2OiFntG2Bl?WC[GKe%"><field name="NUM">3</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
